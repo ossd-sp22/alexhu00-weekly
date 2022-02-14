@@ -3,9 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
 ### More Information
 
 I'm Alex! I grew up in Markham, Ontario and I currently go to school at NYU Stern where I study Business and Computer Science. Here are a few facts about me:
