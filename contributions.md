@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Mar 6   | [Nyl Yakura's Wiki](https://en.wikipedia.org/wiki/Nyl_Yakura)  | wikipedia page   |   I added information on where he grew up, where he currently lives, and the badminton club he currently trains at.    |
 |     |     |     |      |
 |     |     |     |      |
